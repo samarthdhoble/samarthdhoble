@@ -7,27 +7,22 @@ I'm a **Computer Engineering** student at **SPPU University**, passionate about 
 ### 💻 Programming Languages
 - **C, C++**
 - **Java** (Core & Advanced)
-- **JavaScript** (Learning MERN Stack)
+- **JavaScript**
 - **Python**
 
 ### 🌐 Web Development
 - **HTML, CSS, JavaScript**
 - **React.js** (Currently Learning)
-- **Node.js, Express.js** (Currently Learning)
-- **MongoDB** (Currently Learning)
+- **Node.js, Express.js**
+- **MongoDB**
+- **SQL**
 
 ### 📦 Tools & Frameworks
 - **Git & GitHub**
 - **Visual Studio Code**
 - **Postman** (For API Testing)
 
-
-### 🏆 Completed Projects
-- **Electricity Billing System (Java)** → A microproject for managing electricity bills.
-- **Skincare Store (Java GUI)** → A Java-based UI project displaying skincare items with cart functionality.
-
 ## 🎯 Goals
-- Master **MERN Stack** before **January 27, 2025**.
 - Improve **problem-solving skills** and participate in more **coding competitions**.
 - Gain expertise in **blockchain development** and **AI-driven applications**.
 
