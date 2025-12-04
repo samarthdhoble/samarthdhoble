@@ -1,18 +1,18 @@
 # Hi there, I'm Samarth! 👋
 
 ## 🚀 About Me
-I'm a **Computer Engineering** student at **SPPU University**, passionate about **web development and competitive coding**. I'm constantly learning and building projects to sharpen my skills.
+I'm a developer who loves turning ideas into reality using clean code, smart design, and powerful tech. Whether it's crafting intuitive frontends, building efficient backends, or integrating AI into real-world solutions, I’m always excited to learn, build, and improve. I'm currently deep-diving into the **MERN stack**, **Next.js**, and **advanced JavaScript** concepts.
 
 ## 🔧 Tech Stack
 ### 💻 Programming Languages
-- **C, C++**
+- **Python**
 - **Java** (Core & Advanced)
 - **JavaScript**
-- **Python**
+- **C, C++**
 
 ### 🌐 Web Development
-- **HTML, CSS, JavaScript**
-- **React.js** (Currently Learning)
+- **HTML, CSS, JavaScript , NEXT.js**
+- **React.js**
 - **Node.js, Express.js**
 - **MongoDB**
 - **SQL**
@@ -20,11 +20,9 @@ I'm a **Computer Engineering** student at **SPPU University**, passionate about 
 ### 📦 Tools & Frameworks
 - **Git & GitHub**
 - **Visual Studio Code**
+- **Docker, Kubernetes**
 - **Postman** (For API Testing)
 
-## 🎯 Goals
-- Improve **problem-solving skills** and participate in more **coding competitions**.
-- Gain expertise in **blockchain development** and **AI-driven applications**.
 
 ## 📈 Achievements
 - **9th position** in a **college-level coding competition**.
@@ -33,5 +31,6 @@ I'm a **Computer Engineering** student at **SPPU University**, passionate about 
 ## 📬 Let's Connect
 - **GitHub**: [https://github.com/samarthdhoble]
 - **LinkedIn**: [https://www.linkedin.com/in/samarthdhoble]
+- **LeetCode**: [https://leetcode.com/u/samarthdhoble/]
 
 🚀 Always open to collaborating on exciting projects and learning new technologies!
